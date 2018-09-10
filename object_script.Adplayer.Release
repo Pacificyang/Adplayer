@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\playerwindow.o
+./release\qtredis.o
+./release\reader.o
+./release\netmanager.o
+./release\moc_widget.o
+./release\moc_playerwindow.o
+./release\moc_redis.o
+./release\moc_qtredis.o
+./release\moc_reader.o
+./release\moc_netmanager.o
+);

@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\playerwindow.o
+./debug\qtredis.o
+./debug\reader.o
+./debug\netmanager.o
+./debug\moc_widget.o
+./debug\moc_playerwindow.o
+./debug\moc_redis.o
+./debug\moc_qtredis.o
+./debug\moc_reader.o
+./debug\moc_netmanager.o
+);
